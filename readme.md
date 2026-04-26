@@ -50,7 +50,11 @@ image-editor/
 git clone https://github.com/your-username/image-editor.git
 ```
 2.Open folder:
+```bash
 cd image-editor
+```
 
 3.Run:
+```
 Open index.html in browser
+```
